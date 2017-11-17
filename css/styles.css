@@ -1,0 +1,73 @@
+body {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top:3px;
+}
+.sidebar{
+  width: 12%;
+  background-color: #f9f9f9;
+  border-right: 1px lightblue solid;
+  height: 100%;
+  float: left;
+  padding:3px;
+  margin-left: 3px;
+  padding-top: 160px;
+  background-image: url(../img/Wikipedia_5945.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 87%;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+#navright{
+  float: right;
+}
+
+#login {
+  display: inline;
+  height: 30px;
+}
+
+#welcome {
+  border: 1px solid lightgray;
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-top: 7px;
+  margin-bottom: 3px;
+  background-color: #f9f9f9;
+}
+.active{
+  border-top: none;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.form-control {
+  padding-top: 2.6px;
+  padding-bottom: 2.6px;
+  padding-left: 2.6px;
+}
+.tabright {
+  right: auto;
+}
+
+.header{
+  text-align: right;
+  float: right;
+  padding: 0;
+  margin: 0;
+  height: 20px;
+  width: 87%;
+}
+
+.nav {
+  border-bottom: 1px lightblue solid;
+}
+.row{
+  margin: 0;
+}
